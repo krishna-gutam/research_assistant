@@ -1,0 +1,25 @@
+# UI & Framework
+streamlit
+
+# LangChain & LangGraph (Agent Architecture)
+langgraph
+langchain-core
+langchain-google-genai
+
+# Vector DB & Hybrid Search
+chromadb
+rank-bm25
+sentence-transformers
+numpy
+
+# Document Processing (PDF to Markdown)
+pymupdf
+pymupdf4llm
+
+# External APIs & Tools
+arxiv
+tavily-python
+requests
+
+# Environment & Utility
+python-dotenv
